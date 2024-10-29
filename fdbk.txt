@@ -1,0 +1,5 @@
+Why are you calling tkinter methods?
+
+```
+    gw.mainloop()
+```
